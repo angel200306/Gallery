@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Gallery/static/css/main.099a3ca4.css",
+    "main.js": "/Gallery/static/js/main.175218d4.js",
+    "static/media/park5.jpg": "/Gallery/static/media/park5.e23c8d37fc9277117bfb.jpg",
+    "static/media/cat1.jpg": "/Gallery/static/media/cat1.d5474e25d43e54523050.jpg",
+    "static/media/park6.jpg": "/Gallery/static/media/park6.b2cdca54b82aa99bd021.jpg",
+    "static/media/park20.jpg": "/Gallery/static/media/park20.2d1dc9bfafc7d1f4c278.jpg",
+    "static/media/park7.jpg": "/Gallery/static/media/park7.7268c1e039fa3c557886.jpg",
+    "static/media/park10.jpg": "/Gallery/static/media/park10.7df17237295748b34dfa.jpg",
+    "static/media/park11.jpg": "/Gallery/static/media/park11.4483abd2065462505eea.jpg",
+    "static/media/park3.jpg": "/Gallery/static/media/park3.80fd5c71f22da7ad5563.jpg",
+    "static/media/park13.jpg": "/Gallery/static/media/park13.9f673a9c7771aaf45e9f.jpg",
+    "static/media/park12.jpg": "/Gallery/static/media/park12.524a7bda10503dfe9669.jpg",
+    "static/media/park4.jpg": "/Gallery/static/media/park4.f801444057996cd5c0aa.jpg",
+    "static/media/cat2.jpg": "/Gallery/static/media/cat2.5817b40d34ab83e9ef83.jpg",
+    "static/media/park17.jpg": "/Gallery/static/media/park17.3e834fcce5fece4024c9.jpg",
+    "static/media/park1.jpg": "/Gallery/static/media/park1.e207014f611de08ba5b5.jpg",
+    "static/media/park15.jpg": "/Gallery/static/media/park15.5a0d8bdf3a09e1c38008.jpg",
+    "static/media/park16.jpg": "/Gallery/static/media/park16.ed1ae8b092a852da7be1.jpg",
+    "static/media/animal3.jpg": "/Gallery/static/media/animal3.2043840bee1ae2be5142.jpg",
+    "static/media/park14.jpg": "/Gallery/static/media/park14.44f9e7b2fe5136e49925.jpg",
+    "static/media/park8.jpg": "/Gallery/static/media/park8.6dc386da335484e6286b.jpg",
+    "static/media/park9.jpg": "/Gallery/static/media/park9.0bb4e13a543ab677f7e6.jpg",
+    "static/media/cat3.jpg": "/Gallery/static/media/cat3.65cc0f04123820225d34.jpg",
+    "static/media/cat4.jpg": "/Gallery/static/media/cat4.0a711cfa329b7769be98.jpg",
+    "static/media/park18.jpg": "/Gallery/static/media/park18.bf4226f061a9e3d45152.jpg",
+    "static/media/park19.jpg": "/Gallery/static/media/park19.72ea9885e7bf0cc9ddad.jpg",
+    "static/media/animal2.jpg": "/Gallery/static/media/animal2.17ec2fc61e3e4f32bc33.jpg",
+    "static/media/animal1.jpg": "/Gallery/static/media/animal1.f0d3a9510bfc0235fd31.jpg",
+    "static/media/park2.jpg": "/Gallery/static/media/park2.b2a1cfc737f502d5911f.jpg",
+    "index.html": "/Gallery/index.html",
+    "main.099a3ca4.css.map": "/Gallery/static/css/main.099a3ca4.css.map",
+    "main.175218d4.js.map": "/Gallery/static/js/main.175218d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.099a3ca4.css",
+    "static/js/main.175218d4.js"
+  ]
+}
