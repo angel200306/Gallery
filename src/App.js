@@ -34,6 +34,7 @@ import logo30 from "./img/park24.jpg"
 import logo31 from "./img/park25.jpg"
 import logo32 from "./img/park26.jpg"
 import logo33 from "./img/park27.jpg"
+import logo34 from "./img/park28.jpg"
 
 class App extends React.Component {
     string = "Gallery"
@@ -82,6 +83,7 @@ class App extends React.Component {
             <Image image={logo31} />
             <Image image={logo32} />
             <Image image={logo33} />
+            <Image image={logo34} />
         </div>)
     }
 }
