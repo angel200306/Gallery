@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gallery/static/css/main.099a3ca4.css",
-    "main.js": "/Gallery/static/js/main.60e988dc.js",
+    "main.js": "/Gallery/static/js/main.7e1e31d8.js",
     "static/media/park27.jpg": "/Gallery/static/media/park27.f26ec99f7128554f7de3.jpg",
     "static/media/park26.jpg": "/Gallery/static/media/park26.fb7617257a1670e5ff87.jpg",
     "static/media/park22.jpg": "/Gallery/static/media/park22.5a07feed9504ffcdedfe.jpg",
@@ -32,17 +32,17 @@
     "static/media/park9.jpg": "/Gallery/static/media/park9.0bb4e13a543ab677f7e6.jpg",
     "static/media/cat3.jpg": "/Gallery/static/media/cat3.65cc0f04123820225d34.jpg",
     "static/media/cat4.jpg": "/Gallery/static/media/cat4.0a711cfa329b7769be98.jpg",
+    "static/media/park19.jpg": "/Gallery/static/media/park19.f91c51e926f3f65f25ec.jpg",
     "static/media/park18.jpg": "/Gallery/static/media/park18.bf4226f061a9e3d45152.jpg",
-    "static/media/park19.jpg": "/Gallery/static/media/park19.72ea9885e7bf0cc9ddad.jpg",
     "static/media/animal2.jpg": "/Gallery/static/media/animal2.17ec2fc61e3e4f32bc33.jpg",
     "static/media/animal1.jpg": "/Gallery/static/media/animal1.f0d3a9510bfc0235fd31.jpg",
     "static/media/park2.jpg": "/Gallery/static/media/park2.b2a1cfc737f502d5911f.jpg",
     "index.html": "/Gallery/index.html",
     "main.099a3ca4.css.map": "/Gallery/static/css/main.099a3ca4.css.map",
-    "main.60e988dc.js.map": "/Gallery/static/js/main.60e988dc.js.map"
+    "main.7e1e31d8.js.map": "/Gallery/static/js/main.7e1e31d8.js.map"
   },
   "entrypoints": [
     "static/css/main.099a3ca4.css",
-    "static/js/main.60e988dc.js"
+    "static/js/main.7e1e31d8.js"
   ]
 }
