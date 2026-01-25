@@ -28,35 +28,3 @@ p {
     margin-right: 30px;
     margin-bottom: 100px;
 }
-
-h2 {
-    text-align: center;
-    font-size: 50px;
-    color: black;
-    font-family: "Calibri Light";
-    margin-bottom: 100px;
-}
-
-img {
-    border-radius: 20px;
-    padding: 5px;
-    width: 360px;
-}
-
-h3 {
-    margin-top: 100px;
-    text-align: center;
-    font-size: 50px;
-    color: black;
-    font-family: "Calibri Light";
-    margin-bottom: 100px;
-}
-
-h4 {
-    margin-top: 100px;
-    text-align: center;
-    font-size: 50px;
-    color: black;
-    font-family: "Calibri Light";
-    margin-bottom: 100px;
-}

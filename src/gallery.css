@@ -1,0 +1,47 @@
+.gallery-wrapper {
+    padding: 20px;
+}
+
+.gallery-group {
+    margin-bottom: 40px;
+}
+
+.gallery-title {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 12px;
+    text-align: left;
+    color: #333;
+}
+
+.gallery-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.gallery-image {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    border-radius: 30px;
+    object-fit: cover;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease;
+}
+
+.gallery-image:hover {
+    transform: scale(1.05);
+}
+.modal {
+    opacity: 0;
+    transform: scale(0.9);
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+    pointer-events: none;
+}
+
+.modal.open {
+    opacity: 1;
+    transform: scale(1);
+    pointer-events: auto;
+}
