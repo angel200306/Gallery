@@ -33,6 +33,16 @@ import park25 from "./img/park25.jpg"
 import park26 from "./img/park26.jpg"
 import park27 from "./img/park27.jpg"
 import park28 from "./img/park28.jpg"
+import rock1 from "./img/rock1.jpg"
+import rock2 from "./img/rock2.jpg"
+import rock3 from "./img/rock3.jpg"
+import rock4 from "./img/rock4.jpg"
+import rock5 from "./img/rock5.jpg"
+import rock6 from "./img/rock6.jpg"
+import rock7 from "./img/rock7.jpg"
+import rock8 from "./img/rock8.jpg"
+import rock9 from "./img/rock9.jpg"
+import rock10 from "./img/rock10.jpg"
 
 export const gallerydata = [
     {
@@ -46,5 +56,9 @@ export const gallerydata = [
     {
         title: "Parks",
         images: [park1, park2, park3, park4, park5, park6, park7, park8, park9, park10, park11, park12, park13, park14, park16, park17, park20, park21, park22, park23, park24, park25, park26, park27, park28],
+    },
+    {
+        title: "Rocks",
+        images: [rock1, rock2, rock3, rock4, rock5, rock6, rock7, rock8, rock9, rock10]
     }
 ]
