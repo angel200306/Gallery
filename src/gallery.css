@@ -1,55 +1,70 @@
 .gallery-wrapper {
     padding: 20px;
 }
+
 .gallery-group {
     margin-bottom: 40px;
 }
+
 .gallery-title {
     font-size: 50px;
-    text-align: center;
     margin-bottom: 12px;
     text-align: left;
     color: #333;
 }
-@keyframes titlePulse {
-    0%, 100% {
-        transform: scale(1);
+
+@media (max-width: 768px) {
+    .gallery-wrapper {
     }
-    50% {
-        transform: scale(1.20);
+
+    .gallery-images {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2px;
+    }
+
+    .gallery-image {
+        width: 100%;
+        height: 350px;
+        border-radius: 6px;
+        object-fit: cover;
+        box-shadow: none;
+    }
+
+    .gallery-title {
+        font-size: 30px;
     }
 }
 
-.title-pulse {
-    display: inline-block;
-    animation: titlePulse 2s ease-in-out infinite;
-}
-.gallery-images {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-}
-.gallery-image {
-    width: 100%;
-    max-width: 250px;
-    height: auto;
-    border-radius: 30px;
-    object-fit: cover;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
-    transition: transform 0.4s ease;
-}
-.gallery-image:hover {
-    transform: translateY(-10px);
-}
-.modal {
-    opacity: 0;
-    transform: scale(0.9);
-    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
-    pointer-events: none;
-}
+@media (min-width: 769px) {
+    .gallery-wrapper {
+        padding: 40px;
+    }
 
-.modal.open {
-    opacity: 1;
-    transform: scale(1);
-    pointer-events: auto;
+    .gallery-images {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 20px;
+    }
+
+    .gallery-image {
+        width: 100%;
+        height: 200px;
+        border-radius: 16px;
+        object-fit: cover;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease;
+    }
+
+    .gallery-image:hover {
+        transform: scale(1.05);
+    }
+
+    .gallery-title {
+        font-size: 32px;
+        color: #1d1d1f;
+    }
+}
+.modal-content {
+    touch-action: pan-y;
 }
